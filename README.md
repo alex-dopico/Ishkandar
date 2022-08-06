@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishkandar
 - 👀 I’m interested in modding and game development
-- 🌱 I’m currently learning C# and the .NET6 ecosystem
+- 🌱 I’m currently learning Java through the Ironhack Java Backend Bootcamp
 - 💞️ I’m looking to collaborate on any development, game dev preferred
 - 📫 How to reach me => alex.dopico@gmail.com
 
